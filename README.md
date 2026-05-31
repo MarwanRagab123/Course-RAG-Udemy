@@ -1,5 +1,5 @@
 
-# RAG Udemy — Retrieval-Augmented Generation (RAG) Course Materials
+# Retrieval-Augmented Generation (RAG)
 
 Comprehensive collection of notebooks and assets used in a hands-on RAG course covering data ingestion, vector embeddings, vector databases, chunking strategies, hybrid search and multimodal examples.
 
