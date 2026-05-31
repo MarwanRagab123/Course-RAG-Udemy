@@ -75,8 +75,5 @@ jupyter lab
 **License & Attribution**
 - Use these materials for learning and experimentation. If you reuse content publicly, please attribute the original course materials.
 
----
-If you'd like, I can also:
-- Add a short script to run a full pipeline end-to-end.
-- Create a lightweight README badge, or a `requirements-lite.txt` for quick demos.
+
 
