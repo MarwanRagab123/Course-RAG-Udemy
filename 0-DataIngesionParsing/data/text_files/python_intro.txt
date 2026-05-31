@@ -1,0 +1,6 @@
+ Python is a high-level programming language known for being simple and easy to read. It’s widely used in:
+
+AI & Machine Learning (your field 👀)
+Web development (e.g., Flask, Django)
+Data analysis
+Automation & scripting

@@ -1,0 +1,10 @@
+ Machine Learning (ML) is a part of AI where systems learn patterns from data instead of being explicitly programmed.
+
+In short:
+You give the model data
+It learns patterns
+It makes predictions or decisions
+Main types:
+Supervised → learns from labeled data (e.g., fraud detection)
+Unsupervised → finds patterns without labels (e.g., clustering)
+Reinforcement → learns by trial and error (rewards & penalties)
